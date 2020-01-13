@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-'''
-# @Time     :   2020/1/13 8:18 PM
-# @Author   :   bin li
-# @File     :   test_fizzbuzz.py
-# @Input    :
-# @Output   :
-# @Function : 
-'''
-
 import fizzbuzz
 import unittest
 
