@@ -6,4 +6,5 @@ def process(number):
         return 'Fizz'
     elif number % 5 ==0:
         return 'Buzz'
-    return number
+    else:
+        return number
